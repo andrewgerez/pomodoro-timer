@@ -20,7 +20,6 @@ export const Separator = styled.div`
   justify-content: center;
   width: 4rem;
   padding: 2rem 0;
-  color: ${(props) => props.theme['green-500']};
+  color: ${(props) => props.theme['purple-500']};
   overflow: hidden;
 `
-
