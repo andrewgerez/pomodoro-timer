@@ -28,8 +28,9 @@ export const NewCycleForm = () => {
       <label htmlFor="minutesAmount">durante</label>
       <S.MinutesAmountInput
         type="number"
-        min={1}
+        min={5}
         step={5}
+        max={60}
         id="minutesAmount"
         placeholder="00"
         disabled={!!activeCycle}
