@@ -1,5 +1,7 @@
 import { Cycle } from './reducer'
 
+// Dynamic Action Types
+
 export enum ActionTypes {
   ADD_NEW_CYCLE = 'ADD_NEW_CYCLE',
   INTERRUPT_CURRENT_CYCLE = 'INTERRUPT_CURRENT_CYCLE',

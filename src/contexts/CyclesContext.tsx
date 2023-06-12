@@ -94,7 +94,6 @@ export function CyclesContextProvider({
     }
 
     dispatch(addNewCycleAction(newCycle))
-
     setAmountSecondsPassed(0)
   }
 
