@@ -61,7 +61,7 @@ Prerequisites for installing and running the application locally.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/drewdevelopment/thunder-feed.git
+   git clone https://github.com/drewdevelopment/pomodoro-timer.git
    ```
 2. Install NPM packages
    ```sh
@@ -77,7 +77,7 @@ Prerequisites for installing and running the application locally.
 
 Andrew Gerez - [Linkedin](https://www.linkedin.com/in/andrewgerez/) - andrewgerez18@gmail.com
 
-Project Link: [https://github.com/drewdevelopment/thunder-feed](https://github.com/drewdevelopment/thunder-feed)
+Project Link: [https://github.com/drewdevelopment/pomodoro-timer](https://github.com/drewdevelopment/pomodoro-timer)
 
 
 [product-screenshot]: src/assets/pomodorotimer.png
